@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm thr19 👋
 
-<!--
-**thr19/thr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I code for fun—experimenting, learning, and sharing cool stuff along the way.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Obsidian-CSS-Snippets](https://github.com/thr19/Obsidian-CSS-Snippets)  
+  Custom CSS snippets for Obsidian, designed to make your notes look even better.
+
+- [vuelet](https://github.com/thr19/vuelet)  
+  Little Vue playgrounds and experiments.
+
+- [cvfy](https://github.com/thr19/cvfy)  
+  A simple tool to generate CVs—playful and practical.
+
+- [az-dictionary](https://github.com/thr19/az-dictionary)  
+  A dictionary project with an A-Z twist.
+
+- [cvmv](https://github.com/thr19/cvmv)  
+  Another fun project for moving CVs around.
+
+## 🎨 Why I Code
+
+Just for fun!  
+I enjoy tinkering with new ideas, sharing experiments, and connecting with curious minds.
+
+---
+
+Feel free to check out my projects, fork anything you like, or say hi if you want to chat about code or creativity.
